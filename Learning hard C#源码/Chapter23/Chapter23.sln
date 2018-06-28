@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.1.2", "23.1.2\23.1.2.csproj", "{9DD09F4E-E337-4544-B91C-DB673DB8AC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.2", "23.2\23.2.csproj", "{EE474353-8026-4307-AFB8-4AD9D7580C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD09F4E-E337-4544-B91C-DB673DB8AC16}.Debug|x86.ActiveCfg = Debug|x86
+		{9DD09F4E-E337-4544-B91C-DB673DB8AC16}.Debug|x86.Build.0 = Debug|x86
+		{9DD09F4E-E337-4544-B91C-DB673DB8AC16}.Release|x86.ActiveCfg = Release|x86
+		{9DD09F4E-E337-4544-B91C-DB673DB8AC16}.Release|x86.Build.0 = Release|x86
+		{EE474353-8026-4307-AFB8-4AD9D7580C41}.Debug|x86.ActiveCfg = Debug|x86
+		{EE474353-8026-4307-AFB8-4AD9D7580C41}.Debug|x86.Build.0 = Debug|x86
+		{EE474353-8026-4307-AFB8-4AD9D7580C41}.Release|x86.ActiveCfg = Release|x86
+		{EE474353-8026-4307-AFB8-4AD9D7580C41}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter6\6.3.1\bin\Debug\6-2.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter6\6.3.1\bin\Debug\6-2.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter6\6.3.1\obj\x86\Debug\6.3.1.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter6\6.3.1\obj\x86\Debug\6-2.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter6\6.3.1\obj\x86\Debug\6-2.pdb

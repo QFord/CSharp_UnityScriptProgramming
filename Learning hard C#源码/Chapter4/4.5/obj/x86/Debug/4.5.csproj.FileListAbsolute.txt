@@ -1,0 +1,5 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.5\bin\Debug\结构体与类区别.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.5\bin\Debug\结构体与类区别.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.5\obj\x86\Debug\4.5.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.5\obj\x86\Debug\结构体与类区别.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.5\obj\x86\Debug\结构体与类区别.pdb

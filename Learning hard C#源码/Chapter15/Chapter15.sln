@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.2.2", "15.2.2\15.2.2.csproj", "{617A7F52-1863-4D41-B529-29A310F3EFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.2.1", "15.2.1\15.2.1.csproj", "{0E23FC69-A673-4307-BA27-4EA87A47E78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.3_1", "15.3_1\15.3_1.csproj", "{EE4E162C-F972-485B-ADAB-EB6C1814D56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.3_2", "15.3_2\15.3_2.csproj", "{528A6955-3B4B-4893-85C5-998301C731FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.4", "15.4\15.4.csproj", "{446A5EF2-2930-40F5-9FE4-8B50C79CE6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617A7F52-1863-4D41-B529-29A310F3EFC7}.Debug|x86.ActiveCfg = Debug|x86
+		{617A7F52-1863-4D41-B529-29A310F3EFC7}.Debug|x86.Build.0 = Debug|x86
+		{617A7F52-1863-4D41-B529-29A310F3EFC7}.Release|x86.ActiveCfg = Release|x86
+		{617A7F52-1863-4D41-B529-29A310F3EFC7}.Release|x86.Build.0 = Release|x86
+		{0E23FC69-A673-4307-BA27-4EA87A47E78A}.Debug|x86.ActiveCfg = Debug|x86
+		{0E23FC69-A673-4307-BA27-4EA87A47E78A}.Debug|x86.Build.0 = Debug|x86
+		{0E23FC69-A673-4307-BA27-4EA87A47E78A}.Release|x86.ActiveCfg = Release|x86
+		{0E23FC69-A673-4307-BA27-4EA87A47E78A}.Release|x86.Build.0 = Release|x86
+		{EE4E162C-F972-485B-ADAB-EB6C1814D56A}.Debug|x86.ActiveCfg = Debug|x86
+		{EE4E162C-F972-485B-ADAB-EB6C1814D56A}.Debug|x86.Build.0 = Debug|x86
+		{EE4E162C-F972-485B-ADAB-EB6C1814D56A}.Release|x86.ActiveCfg = Release|x86
+		{EE4E162C-F972-485B-ADAB-EB6C1814D56A}.Release|x86.Build.0 = Release|x86
+		{528A6955-3B4B-4893-85C5-998301C731FD}.Debug|x86.ActiveCfg = Debug|x86
+		{528A6955-3B4B-4893-85C5-998301C731FD}.Debug|x86.Build.0 = Debug|x86
+		{528A6955-3B4B-4893-85C5-998301C731FD}.Release|x86.ActiveCfg = Release|x86
+		{528A6955-3B4B-4893-85C5-998301C731FD}.Release|x86.Build.0 = Release|x86
+		{446A5EF2-2930-40F5-9FE4-8B50C79CE6CC}.Debug|x86.ActiveCfg = Debug|x86
+		{446A5EF2-2930-40F5-9FE4-8B50C79CE6CC}.Debug|x86.Build.0 = Debug|x86
+		{446A5EF2-2930-40F5-9FE4-8B50C79CE6CC}.Release|x86.ActiveCfg = Release|x86
+		{446A5EF2-2930-40F5-9FE4-8B50C79CE6CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

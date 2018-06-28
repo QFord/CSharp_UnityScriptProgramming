@@ -1,0 +1,5 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.3.4.1\bin\Debug\Class.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.3.4.1\bin\Debug\Class.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.3.4.1\obj\x86\Debug\4.3.4.1.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.3.4.1\obj\x86\Debug\Class.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.3.4.1\obj\x86\Debug\Class.pdb

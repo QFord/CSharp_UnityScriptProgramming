@@ -1,0 +1,6 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\bin\Debug\8.6.exe.config
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\bin\Debug\8.6.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\bin\Debug\8.6.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\obj\Debug\8.6.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\obj\Debug\8.6.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.6\obj\Debug\8.6.pdb

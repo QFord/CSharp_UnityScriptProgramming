@@ -1,0 +1,4 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.4\bin\Debug\4-18.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.4\bin\Debug\4-18.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.4\obj\x86\Debug\4-18.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter4\4.4\obj\x86\Debug\4-18.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.5\bin\Debug\委托链.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.5\bin\Debug\委托链.pdb
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.5\obj\x86\Debug\8.5.csprojResolveAssemblyReference.cache
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.5\obj\x86\Debug\委托链.exe
+C:\Users\Bin\Desktop\Learning hard C#源码\Chapter8\8.5\obj\x86\Debug\委托链.pdb
