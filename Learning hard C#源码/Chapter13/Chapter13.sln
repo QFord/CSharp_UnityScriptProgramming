@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.1", "13.1\13.1.csproj", "{AA325BBE-8BDC-4AF6-A24C-995739C6F580}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.2", "13.2\13.2.csproj", "{9A7A5C2F-55B6-4532-8FD5-741DE442B7E4}"
@@ -10,8 +12,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.3_2", "13.3_2\13.3_2.csproj", "{E2FD451D-7246-459E-8E7B-9E4F6AD9E382}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.3_3", "13.3_3\13.3_3.csproj", "{3DFB2A7F-071D-453D-B97F-5F2541997BFF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.4", "13.4\13.4.csproj", "{85228F39-0598-4096-909C-6E5CFF07911E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,12 +39,11 @@ Global
 		{3DFB2A7F-071D-453D-B97F-5F2541997BFF}.Debug|x86.Build.0 = Debug|x86
 		{3DFB2A7F-071D-453D-B97F-5F2541997BFF}.Release|x86.ActiveCfg = Release|x86
 		{3DFB2A7F-071D-453D-B97F-5F2541997BFF}.Release|x86.Build.0 = Release|x86
-		{85228F39-0598-4096-909C-6E5CFF07911E}.Debug|x86.ActiveCfg = Debug|x86
-		{85228F39-0598-4096-909C-6E5CFF07911E}.Debug|x86.Build.0 = Debug|x86
-		{85228F39-0598-4096-909C-6E5CFF07911E}.Release|x86.ActiveCfg = Release|x86
-		{85228F39-0598-4096-909C-6E5CFF07911E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C321BFC-D1EA-4F67-AD88-5CAAFBCC84F8}
 	EndGlobalSection
 EndGlobal

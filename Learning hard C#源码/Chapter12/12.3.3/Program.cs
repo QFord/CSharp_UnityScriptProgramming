@@ -51,12 +51,12 @@ namespace _12._10
             {
                 get { return friendarray[index]; }
             }
-
+            /*
             public int Count
             {
                 get { return friendarray.Length; }
             }
-
+            */
             // C# 2.0中简化迭代器的实现
             public IEnumerator GetEnumerator()
             {

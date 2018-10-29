@@ -17,6 +17,11 @@ namespace _12._8
             // 此时会回调匿名方法输出count的值
             test();
 
+            /*
+             1
+             2
+             */
+
             Console.Read();
         }
 
@@ -31,7 +36,6 @@ namespace _12._8
                 // 捕捉了外部变量
                 count++;
             };
-
             // 调用委托
             closuredelegate();
             return closuredelegate;

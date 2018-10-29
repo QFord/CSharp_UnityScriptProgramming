@@ -15,7 +15,7 @@ namespace _13._3
             Person p2 = new Person { Name = "LearningHard", Age = 25, Weight = 60, Height = 170 };
         }
     }
-
+    
     public class Person
     {
         // 名字

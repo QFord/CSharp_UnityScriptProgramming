@@ -50,7 +50,7 @@ namespace _11._2
             // 使时间以 00:00:00这样的个数输出
             string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
              ts.Hours, ts.Minutes, ts.Seconds,
-             ts.Milliseconds / 10);
+             ts.Milliseconds /10);
             Console.WriteLine("泛型类型运行的时间： " + elapsedTime);
         }
 

@@ -22,6 +22,8 @@ namespace _11._3_4
             // 使用类型推断出现编译错误
             //genericMethod(ref str1, ref obj);
             Console.Read();
+
+            System.ValueType
         }
 
         // 泛型方法

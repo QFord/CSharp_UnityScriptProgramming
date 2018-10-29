@@ -21,7 +21,7 @@ namespace _12._3
             Nullable<int> nullable = 5;
             int? nullablewithoutvalue = null;
            
-            Console.Write(nullablewithoutvalue.Value);
+            //Console.Write(nullablewithoutvalue.GetType());//这个会报错
             // 获得可空对象的类型，此时返回的是System.Int32,而不是System.Nullable<System.Int32>,这点大家要特别注意下的
             Console.WriteLine("获取不为null的可空类型的类型为：{0}", nullable.GetType());
 

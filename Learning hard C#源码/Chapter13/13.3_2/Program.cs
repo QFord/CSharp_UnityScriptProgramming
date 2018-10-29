@@ -26,12 +26,12 @@ namespace _13._4
         // 身高
         public int Height { get; set; }
 
-        // 自定义有参构造函数把默认无参构造函数覆盖了
-        //public Person(string name)
-        //{
-        //    this.Name = name;
-        //}
-
+        //自定义有参构造函数把默认无参构造函数覆盖了
+        public Person(string name)
+        {
+            this.Name = name;
+        }
+        //下面这个忽略就会造成错误，从反编译代码中可以看到需要无参构造函数
         public Person()
         {
         }

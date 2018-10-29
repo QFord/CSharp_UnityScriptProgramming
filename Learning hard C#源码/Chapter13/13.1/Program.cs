@@ -9,6 +9,10 @@ namespace _13._1
     {
         static void Main(string[] args)
         {
+            TestPerson tp = new TestPerson("QFord");
+            Console.WriteLine("name = " + tp.Name);
+
+            Console.Read();
         }
     }
 }

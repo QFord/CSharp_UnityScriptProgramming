@@ -66,6 +66,15 @@ namespace _12._9
             public IEnumerator GetEnumerator()
             {
                 return new FriendIterator(this);
+                /* // C# 2.0
+                
+                 for (int index = 0; index < friendarray.Length; index++)
+                {
+                    // 在C# 2.0中只需要使用下面语句就可以实现一个迭代器
+                    yield return friendarray[index];
+                }
+
+                */
             }
         }
 
@@ -103,11 +112,12 @@ namespace _12._9
                     return true;
                 }
             }
-
+            
             public void Reset()
             {
                 index = 0;
             }
+            
         }
     }
 }
